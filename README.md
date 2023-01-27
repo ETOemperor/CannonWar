@@ -1,7 +1,6 @@
-# CannonWar 塔防战争
+# CannonWar 塔防战争、
 
----
-# 此存储库原为[Littlefean/CannonWar](https://github.com/Littlefean/CannonWar)，后期绘有修改.
+# 此存储库原为[Littlefean/CannonWar](https://github.com/Littlefean/CannonWar)
 
 ## 项目介绍
 
@@ -12,7 +11,7 @@
 
 运行index.html 就可以开始玩了
 
-这个项目写臭了，自我感觉结构不太好，因为这个项目是一边想一边写的，一开始根本没有想做那么多东西。     <!---(我：能跑就行，但有空整理下)---!>
+这个项目写臭了，自我感觉结构不太好，因为这个项目是一边想一边写的，一开始根本没有想做那么多东西。
 
 点开Monster的PSD文件你会发现有隐藏图层：鬼畜版本，贴图都是b站上的鬼畜明星，当时想整活来着，但是发现可能不太好，有点牵强和硬扯，就没有整。
 
